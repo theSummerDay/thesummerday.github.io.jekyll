@@ -1,5 +1,4 @@
 ---
-cool Man
 layout: page
 title: About
 description: 打码改变世界
